@@ -1,0 +1,8 @@
+services:
+  playwright:
+    build: .
+    ipc: host
+    init: true
+    environment:
+      - HEADLESS=true
+    command: npm test

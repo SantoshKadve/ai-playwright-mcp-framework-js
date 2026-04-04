@@ -1,0 +1,2 @@
+{"level":"INFO","message":"MCP test idea generation requested","provider":"mock","model":"gpt-4.1","mode":"adapter","context":"GET users list API","ts":"2026-04-04T19:25:12.789Z"}
+{"level":"INFO","message":"API GET request","path":"/api/users?page=2","ts":"2026-04-04T19:25:12.798Z"}

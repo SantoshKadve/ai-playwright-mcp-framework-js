@@ -1,0 +1,13 @@
+# Test Categories
+@smoke: Critical smoke tests that verify core functionality
+@regression: Full regression test suite
+@api: API-only tests
+@ui: UI-only tests
+@e2e: End-to-end tests combining UI and API
+@contract: Contract testing with schema validation
+
+# Test Suites
+login: Authentication and login functionality
+cart: Shopping cart operations
+users: User management API
+register: User registration API
