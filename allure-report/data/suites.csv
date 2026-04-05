@@ -1,4 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","52273","standard user should login successfully @smoke","chromium-ui","2026-04-05","broken","2026-04-05","UI login flow","ui\login.spec.js","",""
-"","52658","user should add product to cart @smoke","chromium-ui","2026-04-05","broken","2026-04-05","","ui\cart.spec.js","",""
-"","666","should fetch users list @smoke","api-tests","2026-04-05","passed","2026-04-05","API user endpoints","api\users.spec.js","",""
