@@ -47,7 +47,7 @@ The repo keeps UI, API, contract, and hybrid flows in separate test layers while
 - Negative register scenario.
 
 ### Hybrid
-- Login through UI and validate API in the same scenario, which reflects a practical pattern supported by Playwright’s API testing model.[page:1]
+- Login through UI and validate API in the same scenario, which reflects a practical pattern supported by Playwright's API testing model.[page:1]
 
 ### Contract
 - Lightweight response structure checks for GET and POST user flows.
@@ -112,6 +112,14 @@ npm run test:contract
 npm run test:smoke
 npm run mcp:demo
 npm run mcp:inspector
+```
+
+## Reports
+
+```bash
+npm run report:allure      # Generate Allure report
+npm run report:allure:serve # Serve Allure report locally
+npm run report              # Playwright HTML report
 ```
 
 ## Docker run
